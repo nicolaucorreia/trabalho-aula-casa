@@ -1,0 +1,26 @@
+{
+  "name": "trabalho-aula-casa",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nicolaucorreia/trabalho-aula-casa.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nicolaucorreia/trabalho-aula-casa/issues"
+  },
+  "homepage": "https://github.com/nicolaucorreia/trabalho-aula-casa#readme",
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  }
+}
